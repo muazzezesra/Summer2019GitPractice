@@ -9,4 +9,4 @@ pink
 white
 Orange
 Cyan
-12345
+Azure
