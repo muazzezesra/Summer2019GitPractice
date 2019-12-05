@@ -11,3 +11,5 @@ Orange
 Cyan
 Azure
 French Rose
+Cyber yellow
+gold
