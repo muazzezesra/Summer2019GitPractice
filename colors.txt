@@ -1,16 +1,1 @@
-blue
 red
-green
-black
-yellow
-purple
-navy blue
-pink
-white
-Orange
-Cyan
-Azure
-French Rose
-Cyber yellow
-gold
-aqua
