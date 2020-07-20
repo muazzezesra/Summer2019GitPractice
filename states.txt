@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 azebaycan
 turkiye
 baku
 istanbul
+=======
+Baku
+Istanbul
+>>>>>>> 6dbd31675c8544f46598d089d548927809ff8e0d
